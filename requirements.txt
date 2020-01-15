@@ -1,0 +1,6 @@
+allure-pytest==2.8.6
+allure-python-commons==2.8.6
+pytest==5.3.2
+requests==2.22.0
+urllib3==1.25.7
+wcwidth==0.1.8
